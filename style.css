@@ -1,0 +1,52 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  width: 800px;
+  margin: auto;
+  border: 1px solid black;
+  font-family: 'Koulen', cursive;
+  padding: 10px;
+  background-color: #f1f1f1;
+}
+hr {
+  width: 780px;
+}
+.avatar {
+  width: 200px;
+  border-radius: 20px;
+  margin-top: 20px;
+  margin-left: 40px;
+}
+
+.info {
+  display: flex;
+  margin-bottom: 20px;
+}
+.info-text {
+  margin-left: 40px;
+}
+.footer-style h3 {
+  text-align: center;
+  margin-bottom: 0px;
+}
+.textarea {
+  display: flex;
+  margin-left: 20px;
+}
+.footer-media {
+  display: flex;
+}
+.button {
+  margin-left: 20px;
+}
+.footer-social {
+  display: flex;
+  justify-content: center;
+}
+.insta,
+.twit,
+.linked,
+.vk {
+  margin: 10px;
+}
