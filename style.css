@@ -50,3 +50,6 @@ hr {
 .vk {
   margin: 10px;
 }
+textarea {
+  padding-top:5px;
+}
