@@ -6,7 +6,7 @@
 
 ### This page was created with HTML,CSS.
 ---
-### __It was used__ :
+### It was used:
 - **header,main,footer,section** :heavy_check_mark:
 - **div,img,p,h1,h2,h3** :heavy_check_mark:
 - **ul,li,details,summary** :heavy_check_mark:
