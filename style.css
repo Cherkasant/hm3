@@ -100,7 +100,7 @@ textarea {
   width: 250px;
   height: 250px;
   margin: 20px 0px 0px 40px;
-  background: url('/teachmeskills/hm3/images/pngtree-fashion-future-technology-sense-picture-image_165857.jpg')
+  background: url('../hm3/images/pngtree-fashion-future-technology-sense-picture-image_165857.jpg')
     center/cover no-repeat;
 }
 .btn {
